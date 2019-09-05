@@ -1,0 +1,14 @@
+#ignored folders 
+images
+Test
+.ipynb_checkpoints
+*.h5
+*.csv
+model
+TimeForecasting
+semisupervised_timeseries_infogan/asset
+papers
+RGAN/figures
+RGAN/experiments
+*.pdf
+*.png
